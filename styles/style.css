@@ -1,0 +1,28 @@
+body {
+    background-color:   hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
+    margin: 20vh auto;
+}
+p {
+    font-weight: 400;
+    font-size: 15px;
+    width: 18em;
+    margin: 0 auto;
+}
+div {
+    width: 22em;
+    border-radius: 1.2em;
+    margin: 0 auto;
+    background-color: white;
+    text-align: center;
+    min-height: 10em;
+}
+img {
+    width: 20em;
+    margin-top: 1em;
+    border-radius: 1.2em;
+}
+.text {
+    width: 20em;
+    text-align: center;
+}
